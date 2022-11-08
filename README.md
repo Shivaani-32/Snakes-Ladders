@@ -2,7 +2,7 @@
 A snakes and Ladders game has been created using the graphics of c++.
 
 
-Project was done is Turbo C++
+Project was done is Turbo C++.
 
 .
 .
